@@ -11,6 +11,17 @@ This system captures live video feed using a connected camera and analyzes the d
 - Distraction or inattention
 
 If unsafe behavior is detected, the system raises real-time alerts to warn the driver.
+---
+## 📸 Screenshots
+
+### System Setup
+![Setup](assets/images/img1.jpg)
+
+### Drowsiness Detection
+![Drowsiness Detection](assets/images/img2.jpg)
+
+### Alert Trigger
+![Alert](assets/images/img3.jpg)
 
 ---
 
