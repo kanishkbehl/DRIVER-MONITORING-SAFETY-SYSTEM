@@ -22,6 +22,9 @@ This system captures live video feed using a connected camera and analyzes the d
 - Lightweight and optimized for edge devices
 
 ---
+TRAINING AND TESTING CODES WITH THE DATASET
+https://drive.google.com/file/d/1-0mxiys81Iu5sQh1CzK2BcBjtG11fEK7/view?usp=sharing
+---
 
 ## 🛠️ Tech Stack
 
