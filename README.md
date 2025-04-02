@@ -6,7 +6,7 @@ A real-time Driver Monitoring System (DMS) built using Raspberry Pi 5 designed t
 
 This system captures live video feed using a connected camera and analyzes the driver's facial features to detect:
 - Eye closure and drowsiness
-- Head pose (nodding or looking away)
+- Helmet wear
 - Yawning
 - Distraction or inattention
 
