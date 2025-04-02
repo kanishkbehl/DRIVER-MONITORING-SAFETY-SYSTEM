@@ -30,14 +30,15 @@ https://drive.google.com/file/d/1-0mxiys81Iu5sQh1CzK2BcBjtG11fEK7/view?usp=shari
 
 ### Hardware:
 - Raspberry Pi 5
-- Raspberry Pi Camera Module or USB Webcam
-- Buzzer/Speaker for alert (optional)
-- 5" or 7" touchscreen display (optional)
+- Raspberry Pi Camera Module (compatible with PiCamera2)
+- Buzzer
+- LED
+- Breadboard, jumpers, resistors (for connections)
 
 ### Software & Libraries:
 - Python 3
-- OpenCV
-- Dlib or MediaPipe
-- NumPy
-- imutils
-- playsound / pygame (for audio alerts)
+- [Ultralytics YOLOv8](https://docs.ultralytics.com/)
+- OpenCV (`cv2`)
+- GPIO Zero (`gpiozero`)
+- PiCamera2 (`picamera2`)
+- time (standard library)
